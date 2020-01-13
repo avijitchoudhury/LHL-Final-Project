@@ -1,5 +1,11 @@
-LHL-Final-Project
-Made with @Araxiah and @aimanaaw. Budget App, Cache My Budget!
+# Cache My Budget - Lighthouse Labs capstone project
+
+Cache My Budget is a full stack web application built with Node and React that helps track user's budget/expense. It is a user-friendly application that makes the process of setting your budget and tracking your expense seamless process.
+
+!["Screenshot of URLs page"](https://github.com/lighthouse-labs/tinyapp/blob/master/docs/urls-page.png)
+
+!["Screenshot of register page"](https://github.com/lighthouse-labs/tinyapp/blob/master/docs/register-page.png)
+
 
 Client Side
 Dependencies
